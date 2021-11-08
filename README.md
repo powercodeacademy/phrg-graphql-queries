@@ -8,12 +8,12 @@ Utilize the "Docs" tab on the far right of the page to figure out the query you 
 
 ### Questions
 
-1. What is the maximum height of Nidoqueen (m)?
-1. What are the weaknesses of MaChop?
-1. What is Ditto's special attack, and how much damage does it do?
-1. What is the official classification of Snorlax?
-1. What is Dragonite resitant to?
-1. What is the flee rate of Pidgeot?
-1. What is Pikachu's minimum wieght (kg) AFTER they evolve?
-1. What is Pikachu's most damaging fast attack?
+1. What is the height of Nidoqueen?
+1. What are the weaknesses of Machop?
+1. What is Ditto's special attack stat?
+1. What is the official classification of Snorlax? (egg group is fine)
+1. What is Dragonite resitant to? (bonus points for double resistance as well!)
+1. What is the catch rate of Pidgeot?
+1. What is Pikachu's weight AFTER they evolve?
+1. What is Pikachu's hidden ability?
 1. Where can an image of Jigglepuff be found?
