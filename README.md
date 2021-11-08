@@ -2,7 +2,7 @@
 
 You have learned the basics of GraphQL. Now it time to test your querying ability.
 
-[Graphql-Pokemon](https://graphql-pokemon.now.sh/) will be your one stop shop to answer the following questions about select pokemon. It uses [GraphiQL](https://medium.com/the-graphqlhub/graphiql-graphql-s-killer-app-9896242b2125), a tool that helps developers structure their GraphQL queries. Nitro uses GraphiQL too.
+[Graphql-Pokemon](https://graphqlpokemon.favware.tech/) will be your one stop shop to answer the following questions about select pokemon. It uses [GraphiQL](https://medium.com/the-graphqlhub/graphiql-graphql-s-killer-app-9896242b2125), a tool that helps developers structure their GraphQL queries. Nitro uses GraphiQL too.
 
 Utilize the "Docs" tab on the far right of the page to figure out the query you need to find each answer.
 
